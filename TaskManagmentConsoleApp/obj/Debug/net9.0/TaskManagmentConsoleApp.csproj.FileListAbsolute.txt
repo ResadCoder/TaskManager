@@ -1,0 +1,14 @@
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/bin/Debug/net9.0/TaskManagmentConsoleApp
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/bin/Debug/net9.0/TaskManagmentConsoleApp.deps.json
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/bin/Debug/net9.0/TaskManagmentConsoleApp.runtimeconfig.json
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/bin/Debug/net9.0/TaskManagmentConsoleApp.dll
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/bin/Debug/net9.0/TaskManagmentConsoleApp.pdb
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.AssemblyInfoInputs.cache
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.AssemblyInfo.cs
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.csproj.CoreCompileInputs.cache
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.dll
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/refint/TaskManagmentConsoleApp.dll
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.pdb
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.genruntimeconfig.cache
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/ref/TaskManagmentConsoleApp.dll
