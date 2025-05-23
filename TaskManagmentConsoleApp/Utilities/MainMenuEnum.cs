@@ -1,6 +1,6 @@
 namespace TaskManagmentConsoleApp.Models;
 
-public enum MainMenu
+public enum MainMenuEnum
 {
    Exit = 0,
    Login = 1,

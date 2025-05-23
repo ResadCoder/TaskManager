@@ -12,3 +12,4 @@
 /Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.pdb
 /Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.genruntimeconfig.cache
 /Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/ref/TaskManagmentConsoleApp.dll
+/Users/resadsadiqov/RiderProjects/TaskManagmentConsoleApp/TaskManagmentConsoleApp/obj/Debug/net9.0/TaskManagmentConsoleApp.sourcelink.json
